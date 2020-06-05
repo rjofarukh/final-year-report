@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{qr_wounded}
+``{Wounded QR codes}.'' URL
+  \url{http://datagenetics.com/blog/november12013/index.html}, November, 2013.
+
+\bibitem{doc_scan}
+A.~Campbell, ``{Document Scanner}.'' URL
+  \url{https://github.com/andrewdcampbell/OpenCV-Document-Scanner}, July 11,
+  2017.
+
+\bibitem{kmeans}
+S.~K. Thakkar, ``{Dominant colors in an image using k-means clustering}.'' URL
+  \url{https://buzzrobot.com/dominant-colors-in-an-image-using-k-means-clustering-3c7af4622036},
+  January 26, 2018.
+
+\bibitem{logging}
+A.~DeLaRosa, ``{Log Monitoring: not the ugly sister}.'' URL
+  \url{https://web.archive.org/web/20180214153657/https://blog.pandorafms.org/log-monitoring/},
+  February 8, 2018.
+
+\bibitem{nosql}
+G.~Menegaz, ``{What is NoSQL, and why do you need it?}.'' URL
+  \url{https://www.zdnet.com/article/what-is-nosql-and-why-do-you-need-it/},
+  October 1, 2012.
+
+\bibitem{array_manipulation}
+A.~Rahman, ``{Fast Array Manipulation in Numpy}.'' URL
+  \url{https://opencvpython.blogspot.com/2012/06/fast-array-manipulation-in-numpy.html},
+  2012.
+
+\bibitem{multiproc}
+S.~Raschka, ``{An introduction to parallel programming using Python's
+  multiprocessing module}.'' URL
+  \url{https://sebastianraschka.com/Articles/2014_multiprocessing.html}, June
+  20, 2014.
+
+\end{thebibliography}

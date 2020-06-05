@@ -1,0 +1,23 @@
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Behind the scenes of image capture\relax }}{13}{figure.caption.4}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Original and transformed image\relax }}{14}{figure.caption.5}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Tickets and experimental sizing for tag prints - 22 mm, 13 mm, 10 mm in width\relax }}{15}{figure.caption.6}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Original barcode images as assignee tags\relax }}{16}{figure.caption.7}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces RGB and HSV colorspace comparison\relax }}{17}{figure.caption.8}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Thresholded border and grid of the transformed board\relax }}{18}{figure.caption.9}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces All section masks in one image\relax }}{19}{figure.caption.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces added\_tickets\_mask and removed\_tickets\_mask\relax }}{21}{figure.caption.11}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Classification of contours found by adaptive thresholding\relax }}{22}{figure.caption.12}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Close up of digits being discolored by JPG compression\relax }}{23}{figure.caption.13}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Ticket area before and after clustering and thresholding\relax }}{23}{figure.caption.14}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Image and its ticket assignee mask\relax }}{24}{figure.caption.15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Visualization of the changes on the board\relax }}{29}{figure.caption.18}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces ASCII interface\relax }}{30}{figure.caption.20}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces SQL and NoSQL\relax }}{32}{figure.caption.21}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Project progress Gantt chart\relax }}{34}{figure.caption.22}

@@ -1,0 +1,44 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Background}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Task board}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Project tracking service}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Justification}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.4.1}{Problems}{section.1.4}% 6
+\BOOKMARK [2][-]{subsection.1.4.2}{Proposed solution}{section.1.4}% 7
+\BOOKMARK [1][-]{section.1.5}{Requirements}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.5.1}{Functional requirements}{section.1.5}% 9
+\BOOKMARK [2][-]{subsection.1.5.2}{Non-functional requirements}{section.1.5}% 10
+\BOOKMARK [1][-]{section.1.6}{Software dependencies}{chapter.1}% 11
+\BOOKMARK [0][-]{chapter.2}{Board Initialization}{}% 12
+\BOOKMARK [1][-]{section.2.1}{Equipment and setup}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.1.1}{Camera}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.2}{Board}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.3}{Tickets}{section.2.1}% 16
+\BOOKMARK [2][-]{subsection.2.1.4}{Tags}{section.2.1}% 17
+\BOOKMARK [1][-]{section.2.2}{Finding the board in the image}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.1}{Color thresholding}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.2}{Board transformation}{section.2.2}% 20
+\BOOKMARK [1][-]{section.2.3}{Finding the sections in the board}{chapter.2}% 21
+\BOOKMARK [0][-]{chapter.3}{Extracting Differences}{}% 22
+\BOOKMARK [1][-]{section.3.1}{Ticket movement detection}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.2}{Digit detection and classification}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.3}{Tag detection}{chapter.3}% 25
+\BOOKMARK [0][-]{chapter.4}{Workflow}{}% 26
+\BOOKMARK [1][-]{section.4.1}{Launch}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.2}{Customizability}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.3}{Performance}{chapter.4}% 29
+\BOOKMARK [2][-]{subsection.4.3.1}{Processing speed}{section.4.3}% 30
+\BOOKMARK [2][-]{subsection.4.3.2}{RAM usage}{section.4.3}% 31
+\BOOKMARK [1][-]{section.4.4}{Visualization}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.5}{Textual feedback}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.5.1}{Logging}{section.4.5}% 34
+\BOOKMARK [2][-]{subsection.4.5.2}{ASCII}{section.4.5}% 35
+\BOOKMARK [0][-]{chapter.5}{Communication Layer}{}% 36
+\BOOKMARK [1][-]{section.5.1}{mongoDB}{chapter.5}% 37
+\BOOKMARK [1][-]{section.5.2}{Todoist}{chapter.5}% 38
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 39
+\BOOKMARK [1][-]{section.6.1}{Reflections}{chapter.6}% 40
+\BOOKMARK [2][-]{subsection.6.1.1}{Development progression}{section.6.1}% 41
+\BOOKMARK [2][-]{subsection.6.1.2}{Development choices}{section.6.1}% 42
+\BOOKMARK [1][-]{section.6.2}{Future work}{chapter.6}% 43
+\BOOKMARK [1][-]{section.6.3}{Summary}{chapter.6}% 44
